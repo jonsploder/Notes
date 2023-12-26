@@ -1,0 +1,3 @@
+Most of us rote learn in an early age of our lives addition and simple maths (positional decimals etc), and never appreciate it. Relearning and understanding the history of how these came about gives us the “experience” of discovering new fundamental ideas ourselves as practice. The more times you can empathize with people who had to breakthrough discover something that's regarded as obvious today, the better
+
+#learning

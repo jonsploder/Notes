@@ -1,0 +1,3 @@
+When training, a primary muscle for an exercise is exhausted first because it cannot be taken out of the movement. All of the stabiliizing muscles never get improved because although they contribute they aren’t worked hard enough. So doing accessory or different work improves these smaller contributing muscles, which increases overall strength. That’s why doing multiple exercises can carry over to a main lift.
+
+#gym

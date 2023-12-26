@@ -1,0 +1,6 @@
+-  Conjectures and Refutations (first half - part 1, the 10 chapters on 'conjectures')
+-  Proofs and Refutations
+-  Skin in the Game
+-  Antifragile
+-  The Misbehavior of Markets
+-  The Structure of Scientific Revolutions

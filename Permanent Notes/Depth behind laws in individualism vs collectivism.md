@@ -1,0 +1,5 @@
+Collectivist vs individualist; do you accept someone could be wrong? If so, any collective set of values is determined by a smaller set of people than the whole. The Individualist says on average the truth about what to do is what we all on average agree, compared to say one dictator saying what’s best for everyone. It’s not correct to make these systems equivalent, in that the dictators system has one persons consent behind it, but the individualists take the aggregate of everyone’s opinion to be true - the collective average consent of a large body of people, despite resulting in just 1 set of rules, is worth more than another set of rules come up with by 1 person. The rules can be viewed as a 'flat' structure, but behind them is a difference in depth
+
+In one sense, individualism *is the most pure form of collectivism*, in that each individual is equally important. In collectivism, necessarily some people are coerced, so less people get what they want. Collectivism can never be better on average for the whole, except on issues with unanimous consent, and top down management is more efficient
+
+#libertarian #socialism 

@@ -1,0 +1,7 @@
+- The E-myth Revisited
+- Hooked: How to Build Habit-Forming Products
+- Refactoring UI
+- The Goal
+- Lean Startup
+- How to Build a Billion Dollar App
+- Don't Make Me Think, Revisited

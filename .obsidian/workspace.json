@@ -30,9 +30,117 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d032379dbf01e87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Accessory movements improving compound lifts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e977d5342150f99f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Rediscover fundamental brilliant ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16097d738ad0fc7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c41303c1f0ce466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Depth behind laws in individualism vs collectivism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "584f3f7e959c1327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Free speech incepting negative ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcb1bebebc67ae17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions/Body weight for gaining most muscle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60360eede9bfd5c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions/Water spreading behaviour.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c9d6c4519db0ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curated reading lists/Economics reading list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4177337be3fc39c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curated reading lists/Product development reading list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -98,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent Notes/Refactoring UX UI vs lean - refactoring code analogy.md",
+                "file": "Curated reading lists/Product development reading list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent Notes/Refactoring UX UI vs lean - refactoring code analogy.md",
+                "file": "Curated reading lists/Product development reading list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent Notes/Refactoring UX UI vs lean - refactoring code analogy.md"
+                "file": "Curated reading lists/Product development reading list.md"
               }
             }
           }
@@ -159,10 +267,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ed6855d4b481508",
+  "active": "d4177337be3fc39c",
   "lastOpenFiles": [
-    "Questions/Political leaders should have children.md",
+    "Curated reading lists/Economics reading list.md",
+    "Curated reading lists/Product development reading list.md",
+    "Curated reading lists/Science reading list.md",
+    "Essays/Tests.md",
+    "Curated reading lists",
+    "Essays/The harm of a competitive mindset.md",
+    "Questions/Are epicycles Fourier series.md",
+    "Essays",
+    "Permanent Notes/What gives people equal rights.md",
+    "Questions/Water spreading behaviour.md",
+    "Questions/Body weight for gaining most muscle.md",
+    "Permanent Notes/Free speech incepting negative ideas.md",
+    "Permanent Notes/Depth behind laws in individualism vs collectivism.md",
+    "Permanent Notes/Untitled.md",
+    "Permanent Notes/Rediscover fundamental brilliant ideas.md",
+    "Permanent Notes/Accessory movements improving compound lifts.md",
     "Permanent Notes/Refactoring UX UI vs lean - refactoring code analogy.md",
+    "Questions/Political leaders should have children.md",
     "Questions",
     "Permanent Notes/Writing references.md",
     "Permanent Notes/Origin of knowledge.md",
