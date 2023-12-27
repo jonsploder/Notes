@@ -1,0 +1,1 @@
+One of the best feelings in the world is being strongly supported, endorsed and encouraged by the community. This may be why arranged marriages are tolerable, eg the entire community thinks well of your partner and your union, so it becomes better for it
