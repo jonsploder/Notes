@@ -1,0 +1,3 @@
+Each paradigm overthrows another, and often with great difficulty has to accept some of the former paradigm. Eg gravity is very close to Aristotle's gravity, which had no mechanistic explanation of why earth falls to the center of the universe. The idea that the tides were resulting from gravity was difficult to accept at the time, because of prior mythology of the moon affecting tides. Apparently space now has many of the properties that were previously assigned to the ether (it’s not just an empty container). Each time a new paradigm dies or is born, some artifacts are either revived or left dormant for future paradigms to pick up.
+
+#paradigms #science 

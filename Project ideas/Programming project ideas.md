@@ -1,0 +1,2 @@
+- Make a factorio clone which is a startup emulator
+- With gpt it would be easier to write a book with the letter “g” cascading diagonally vertically down the page, similar to an acrostic poem, but diagonal instead of first letter. Each page could do it with letters in a code
