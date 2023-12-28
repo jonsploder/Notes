@@ -1,0 +1,1 @@
+Can you see the curvature of the earth from a mountain top? Which ancient people found this before the arabs if so?

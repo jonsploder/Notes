@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Twitter note dates.md",
+                "file": "Permanent Notes/Writing references.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,117 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent Notes/Refactoring UX UI vs lean - refactoring code analogy.md",
+                "file": "Permanent Notes/Ethical resolution.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "1d032379dbf01e87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent Notes/Accessory movements improving compound lifts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e977d5342150f99f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent Notes/Rediscover fundamental brilliant ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16097d738ad0fc7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent Notes/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c41303c1f0ce466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent Notes/Depth behind laws in individualism vs collectivism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "584f3f7e959c1327",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent Notes/Free speech incepting negative ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcb1bebebc67ae17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions/Body weight for gaining most muscle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60360eede9bfd5c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions/Water spreading behaviour.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c9d6c4519db0ba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curated reading lists/Economics reading list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4177337be3fc39c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "generations",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twitter note dates.md",
+                "file": "Permanent Notes/Ethical resolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Twitter note dates.md",
+                "file": "Permanent Notes/Ethical resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Twitter note dates.md"
+                "file": "Permanent Notes/Ethical resolution.md"
               }
             }
           }
@@ -263,45 +159,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9eafc4573f2925db",
+  "active": "6ed6855d4b481508",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Permanent Notes/Origin of knowledge.md",
-    "Permanent Notes/Untitled 1.md",
-    "In Progress Notes/Arranged marriage.md",
-    "Permanent Notes/Writing references.md",
     "Twitter note dates.md",
-    "Permanent Notes/Depth behind laws in individualism vs collectivism.md",
-    "Permanent Notes/Trust only negative results and reports.md",
-    "Project ideas/Programming project ideas.md",
-    "Project ideas/Untitled.md",
-    "Permanent Notes/Paradigm analogies.md",
-    "Questions/Adding planes and lines.md",
+    "Permanent Notes/Ethical resolution.md",
+    "In Progress Notes/Matching words and meanings.md",
+    "In Progress Notes/Freedom.md",
+    "Questions/Explanation vs description.md",
+    "Permanent Notes/Etymology.md",
     "Questions/Water spreading behaviour.md",
+    "Permanent Notes/Patriotic disagreement.md",
+    "Questions/Earth eclipse temperature.md",
+    "Permanent Notes/Maths vs physics.md",
+    "Permanent Notes/Ancient scientific value vs modern scientific value.md",
+    "Permanent Notes/Earth description.md",
+    "Questions/Sun spin.md",
+    "Permanent Notes/Who do you half agree with.md",
+    "Permanent Notes/Tribal identity.md",
+    "Permanent Notes/Different political systems for different cultures.md",
+    "Permanent Notes/Worse than abortion.md",
+    "Questions/Earth curvature.md",
+    "Permanent Notes/Human nature.md",
+    "Essays/Equality and affirmative action.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "Questions/Should political leaders be only parents.md",
-    "Questions/Body weight for gaining most muscle.md",
-    "Questions/Are epicycles Fourier series.md",
-    "Permanent Notes/Paradigm artifacts.md",
+    "Questions/Adding planes and lines.md",
+    "Project ideas/Untitled.md",
+    "Project ideas/Programming project ideas.md",
     "Project ideas/Book club.md",
-    "Permanent Notes/You can't prove vaccines don't cause X.md",
-    "Permanent Notes/Rediscover fundamental brilliant ideas.md",
-    "Permanent Notes/Free speech incepting negative ideas.md",
-    "Permanent Notes/Accessory movements improving compound lifts.md",
-    "In Progress Notes/Affirmative action.md",
-    "Essays/Reconciling work practices with free market ideas.md",
-    "Curated reading lists/Product development reading list.md",
     "Project ideas",
-    "Curated reading lists/Economics reading list.md",
-    "Curated reading lists",
+    "Permanent Notes/You can't prove vaccines don't cause X.md",
+    "In Progress Notes",
     "Essays",
+    "Curated reading lists",
     "Questions",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Templates",
     "Permanent Notes",
-    "My Fleeting Notes",
-    "In Progress Notes"
+    "My Fleeting Notes"
   ]
 }

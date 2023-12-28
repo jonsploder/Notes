@@ -1,0 +1,3 @@
+- Pointless: not even a point. Empty. Vacant. Not solid
+- Out of line - comes from acting
+- 

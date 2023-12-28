@@ -1,0 +1,1 @@
+Define freedom. Am I free in a family unit with obligations to others? If not, would having children then make me less free?
